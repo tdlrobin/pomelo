@@ -1,3 +1,28 @@
+0.8.7 / 2013-01-28
+=================
+* refactor pomelo command, report remained servers if kill failed 
+
+0.8.6 / 2013-01-22
+=================
+* upgrade pomelo-rpc 0.2.9
+* upgrade pomelo-admin 0.2.9
+
+0.8.5 / 2013-01-22
+=================
+* upgrade pomelo-rpc 0.2.8
+* upgrade pomelo-scheduler 0.3.8
+
+0.8.4 / 2013-01-20
+=================
+* fix bin/pomelo spell bug
+
+0.8.3 / 2013-01-16
+=================
+* add tcp socket close option
+* upgrade pomelo-rpc 0.2.7
+* upgrade pomelo-admin 0.2.8
+* upgrade pomelo-schedule 0.3.7
+
 0.8.2 / 2013-01-03
 =================
 * fix session kick bug issue #355
