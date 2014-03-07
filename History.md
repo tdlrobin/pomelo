@@ -1,3 +1,28 @@
+0.9.1 / 2013-03-03
+=================
+* fix pomelo stop auto-restart bug
+* add restart-force option
+* add application.require method
+* export constants.js
+
+0.9.0 / 2013-02-26
+=================
+* rpc support for zmq
+* rpc requests callback timeout
+* rpc support for hot restart
+* optimize for command line
+* support for connection blacklist
+* protobuf support for decodeIO-protobuf.js
+* channel serialization interface
+
+0.8.9 / 2013-02-21
+=================
+* fix fin_wait2 caused by socket.end bug
+
+0.8.8 / 2013-02-19
+=================
+* fix some typos in comment
+
 0.8.7 / 2013-01-28
 =================
 * refactor pomelo command, report remained servers if kill failed 
